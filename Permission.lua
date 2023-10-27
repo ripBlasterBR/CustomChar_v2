@@ -9,7 +9,7 @@ local Tabela = {
 		["zazax1120"] = 			{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 1},	
 		["EpicBoy_Noob0"] = 			{Tier = 1},	
-		
+		["Renan2809"] = 			{Tier = 1},	
 	},
 	
 	CharacterTier = {
