@@ -16,6 +16,7 @@ local Tabela = {
 	CharacterTier = {
 		["gojo"] 	= 				{Tier = 1,Permission = {4633711075,2582436510,4386076823,1525050995,2929532380,2963030044,2908376678,3108673472}}, -- perm temp
 		["sukuna"]	=				{Locked = {36651812}},
+		["goku"]	=				{Locked = {36651812}},
 	}
 
 }
