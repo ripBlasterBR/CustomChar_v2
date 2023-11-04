@@ -12,6 +12,8 @@ local Tabela = {
 		["Renan2809"] = 			{Tier = 1},	
 		["Biscoituuh"] = 			{Tier = 1},
 		["ed3vsrs5"] = 				{Tier = 1},
+		["srnubaso"] = 				{Tier = 1},
+		
 		
 
 	},
