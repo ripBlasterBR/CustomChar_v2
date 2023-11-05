@@ -15,7 +15,7 @@ local Tabela = {
 		["srnubaso"] = 				{Tier = 1},
 		["NuelNoCra"] = 			{Tier = 1},
 		["GG_TIAGO100"] = 			{Tier = 1},
-		
+		["FerPro_13"] = 			{Tier = 1},
 		
 
 	},
