@@ -14,11 +14,11 @@ local Tabela = {
 		["GG_TIAGO100"] = 			{Tier = 1},
 		["FerPro_13"] = 			{Tier = 1},
 		["FaustinoCB"] = 			{Tier = 1},
-		["Bloxfruits3y7"] = 			{Tier = 1},
+		[""] = 			{Tier = 1},
 	},
 	
 	CharacterTier = {
-		["gojo"] 	= 				{Tier = 1,Permission = {4633711075,2582436510,4386076823,1525050995,2929532380,2963030044,2908376678,3108673472}}, -- perm temp
+		["gojo"] 	= 				{Tier = 1,Permission = {4633711075,2582436510,4386076823,1525050995,2929532380,2963030044,2908376678,3108673472,4480758450}}, -- perm temp
 		["sukuna"]	=				{Locked = {36651812}},
 		["goku"]	=				{Locked = {36651812}},
 	}
