@@ -11,8 +11,6 @@ local Tabela = {
 		["EpicBoy_Noob0"] = 			{Tier = 1},	
 		["Renan2809"] = 			{Tier = 1},	
 		["Biscoituuh"] = 			{Tier = 1},
-		["ed3vsrs5"] = 				{Tier = 1},
-		["srnubaso"] = 				{Tier = 1},
 		["NuelNoCra"] = 			{Tier = 1},
 		["GG_TIAGO100"] = 			{Tier = 1},
 		["FerPro_13"] = 			{Tier = 1},
