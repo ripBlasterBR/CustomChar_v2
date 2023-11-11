@@ -14,7 +14,6 @@ local Tabela = {
 		["GG_TIAGO100"] = 			{Tier = 1},
 		["FerPro_13"] = 			{Tier = 1},
 		["FaustinoCB"] = 			{Tier = 1},
-		[""] = 			{Tier = 1},
 	},
 	
 	CharacterTier = {
