@@ -7,17 +7,13 @@ local Tabela = {
 		["b112014"] = 				{Tier = 1},
 		["RaihNoCraK"] = 			{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
-		["ProzinhoBr23213"] = 			{Tier = 1},	
-		["EpicBoy_Noob0"] = 			{Tier = 1},	
+		["ProzinhoBr23213"] = 			{Tier = 1},		
 		["Renan2809"] = 			{Tier = 1},	
 		["Biscoituuh"] = 			{Tier = 1},
 		["NuelNoCra"] = 			{Tier = 1},
 		["GG_TIAGO100"] = 			{Tier = 1},
 		["FerPro_13"] = 			{Tier = 1},
 		["FaustinoCB"] = 			{Tier = 1},
-		
-		
-
 	},
 	
 	CharacterTier = {
