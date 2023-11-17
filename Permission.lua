@@ -16,7 +16,6 @@ local Tabela = {
 		["FaustinoCB"] = 			{Tier = 1},
 		["bloxfruits3y7"] = 			{Tier = 1}, -- Comprou gojo
 		["Sr_samuel099"] = 			{Tier = 1}, -- Comprou gojo
-		["Kotobr1"] = 				{Tier = 1}, -- Sorteio até sábado 12/11
 	},
 	
 	CharacterTier = {
