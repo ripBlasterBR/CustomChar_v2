@@ -16,7 +16,7 @@ local Tabela = {
 		["FaustinoCB"] = 			{Tier = 1},
 		["bloxfruits3y7"] = 			{Tier = 1}, -- Comprou gojo
 		["Sr_samuel099"] = 			{Tier = 1}, -- Comprou gojo
-		["Gamerlivegameplays"] = 		{Tier = 1}, -- louca 10 mil votos. tirar dia 20/11
+		["GamerLivegameplays"] = 		{Tier = 1}, -- louca 10 mil votos. tirar dia 20/11
 		 
 	},
 	
