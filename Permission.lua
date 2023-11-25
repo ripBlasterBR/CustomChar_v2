@@ -14,7 +14,6 @@ local Tabela = {
 		["GG_TIAGO100"] = 			{Tier = 1},
 		["FerPro_13"] = 			{Tier = 1},
 		["FaustinoCB"] = 			{Tier = 1},
-		["bloxfruits3y7"] = 			{Tier = 1}, -- Comprou gojo
 		["Sr_samuel099"] = 			{Tier = 1}, -- Comprou gojo
 		["pedrinhouuuuuuu"] = 			{Tier = 1}, -- Comprou Gojo
 		["kelvynk93"] = 			{Tier = 1}, -- Comprou Jotaro v2 100 mas não tem mobile
