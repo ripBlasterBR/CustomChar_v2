@@ -17,7 +17,7 @@ local Tabela = {
 		["bloxfruits3y7"] = 			{Tier = 1}, -- Comprou gojo
 		["Sr_samuel099"] = 			{Tier = 1}, -- Comprou gojo
 		["pedrinhouuuuuuu"] = 			{Tier = 1}, -- Comprou Gojo
-		["kelvynk93"] = 			{Tier = 1}, -- Comprou Jotaro
+		["kelvynk93"] = 			{Tier = 1}, -- Comprou Jotaro v2 100 mas não tem mobile
 		 
 	},
 	
