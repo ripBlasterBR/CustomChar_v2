@@ -17,7 +17,7 @@ local Tabela = {
 		["Sr_samuel099"] = 			{Tier = 1}, -- Comprou gojo
 		["pedrinhouuuuuuu"] = 			{Tier = 1}, -- Comprou Gojo
 		["kelvynk93"] = 			{Tier = 1}, -- Comprou Jotaro v2 100 mas não tem mobile
-		 
+		["darkzinhoUAS"] = 			{Tier = 1}, -- Comprou o Rimuru (dar gojo enquanto crio Rimuru / deu 50 pra emprestar o gojo)
 	},
 	
 	CharacterTier = {
