@@ -26,6 +26,7 @@ local Tabela = {
 		["sukuna"]	=				{Locked = {36651812}},
 		["goku"]	=				{Locked = {36651812}},
 		["jp6"]	=					{Locked = {36651812}},
+		["rimuru"]	=				{Locked = {3337736146}},
 	}
 
 }
