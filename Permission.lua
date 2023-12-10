@@ -20,7 +20,9 @@ local Tabela = {
 		["darkzinhoUAS"] = 			{Tier = 1}, -- Comprou o Rimuru (dar gojo enquanto crio Rimuru / deu 50 pra emprestar o gojo)
 		["ltz_Lufe"] = 				{Tier = 1}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
-		["luffyzin_rosquinhace"] = 		{Tier = 1}, --  comprou (100)
+		["luffyzin_rosquinhace"] = 		{Tier = 1}, --  comprou (100) gojo
+		["zRn7_GolD"] = 			{Tier = 1}, --  comprou (100) gojo
+		
 		
 	},
 	
