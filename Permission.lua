@@ -23,6 +23,8 @@ local Tabela = {
 		["luffyzin_rosquinhace"] = 		{Tier = 1}, --  comprou (100) gojo
 		["zRn7_GolD"] = 			{Tier = 1}, --  comprou (100) gojo
 		["KozierNoob123"] = 			{Tier = 1}, --  comprou (100) gojo
+		["guiccm4d8"] = 			{Tier = 1}, --  comprou (130) gojo
+		
 		
 		
 		
