@@ -22,15 +22,17 @@ local Tabela = {
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
 		["luffyzin_rosquinhace"] = 		{Tier = 1}, --  comprou (100) gojo
 		["zRn7_GolD"] = 			{Tier = 1}, --  comprou (100) gojo
+		["KozierNoob123"] = 			{Tier = 1}, --  comprou (100) gojo
+		
 		
 		
 	},
 	
 	CharacterTier = {
-		["gojo"] 	= 				{Tier = 1,Permission = {4633711075,2582436510,4386076823,1525050995,2929532380,2963030044,2908376678,3108673472,4480758450}}, -- perm temp
+		["gojo"] 	= 				{Tier = 1,Permission = {4633711075,2582436510,4386076823,1525050995,2929532380,2963030044,2908376678,3108673472,4480758450,2386263216}}, -- perm temp
 		["sukuna"]	=				{Locked = {36651812}},
-		["goku"]	=				{Locked = {36651812}},
-		["jp6"]	=					{Locked = {36651812,4961359008}},
+		["goku"]	=				{Locked = {36651812,2386263216}},
+		["jp6"]	=					{Locked = {36651812,4961359008,2386263216}},
 		["rimuru"]	=				{Locked = {3337736146}},
 	}
 
