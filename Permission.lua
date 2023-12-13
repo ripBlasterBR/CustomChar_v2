@@ -25,8 +25,6 @@ local Tabela = {
 		["KozierNoob123"] = 			{Tier = 1}, --  comprou (100) gojo
 		["guiccm4d8"] = 			{Tier = 1}, --  comprou (130) gojo
 		["meleidinha10_pcmega"] = 		{Tier = 1}, --  comprou (130) gojo
-		["vmilusao"] = 				{Tier = 1}, --  testando o gojo tirar 13/12
-		["iarleykauan"] = 			{Tier = 1}, --  testando o gojo tirar 13/12
 		
 		
 	},
