@@ -25,7 +25,7 @@ local Tabela = {
 		["KozierNoob123"] = 			{Tier = 1}, --  comprou (100) gojo
 		["guiccm4d8"] = 			{Tier = 1}, --  comprou (130) gojo
 		["GojonoCB"] = 				{Tier = 1}, --  comprou (200) gojo v2/ remover ao lançar gojo v2
-
+		["smk_killer7"] = 			{Tier = 1}, --  emprestei gojo até dia 17/12 as 16:00 (comprou helper direto+ gang)
 		
 		
 		
