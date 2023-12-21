@@ -26,6 +26,7 @@ local Tabela = {
 		["guiccm4d8"] = 			{Tier = 1}, --  comprou (130) gojo
 		["GojonoCB"] = 				{Tier = 1}, --  comprou (200) gojo v2/ remover ao lançar gojo v2	
 		["xandecat11"] = 			{Tier = 1}, --  comprou gojo	
+		["Dells_lakash"] = 			{Tier = 1}, --  comprou gojo	
 	},
 	
 	CharacterTier = {
