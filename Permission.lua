@@ -40,7 +40,7 @@ local Tabela = {
 		["rimuru"]	=				{Locked = {3337736146}},
 		["nakime"]	=				{Locked = {2963030044}},
 		["gyutaro"]	=				{Locked = {4633711075}},
-		["gojov2"]	=				{Locked = {36651812}},
+		["gojov2"]	=				{Locked = {36651812,3667599085}},
 		
 	}
 
