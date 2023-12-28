@@ -28,9 +28,6 @@ local Tabela = {
 		["xandecat11"] = 			{Tier = 1}, --  comprou gojo	
 		["Dells_lakash"] = 			{Tier = 1}, --  comprou gojo	
 		["Kim_lola123"] = 			{Tier = 1}, --  amiga da isa (10 tickets de venda)
-		["GamerLivegameplays"] = 		{Tier = 1}, --  amiga da isa (10 tickets de venda)
-		
-
 		
 	},
 	
