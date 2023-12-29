@@ -30,6 +30,7 @@ local Tabela = {
 		["GamerLivegameplays"] = 		{Tier = 1}, --  isa (arrumar sistema de permission e tirar gojo (otaria)
 		["A_Menor01"] = 			{Tier = 1}, --  comprou gojo	
 		["gustavosmf"] = 			{Tier = 1}, --  comprou gojo	
+		["coelhocaralimpa"] = 			{Tier = 1}, --  comprou gojo	
 		
 		
 	},
