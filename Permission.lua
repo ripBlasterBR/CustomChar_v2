@@ -29,6 +29,8 @@ local Tabela = {
 		["Kim_lola123"] = 			{Tier = 1}, --  amiga da isa (10 tickets de venda)
 		["GamerLivegameplays"] = 		{Tier = 1}, --  isa (arrumar sistema de permission e tirar gojo (otaria)
 		["A_Menor01"] = 			{Tier = 1}, --  comprou gojo	
+		["gustavosmf"] = 			{Tier = 1}, --  comprou gojo	
+		
 		
 	},
 	
