@@ -32,6 +32,7 @@ local Tabela = {
 		["A_Menor01"] = 			{Tier = 1}, --  comprou gojo	
 		["gustavosmf"] = 			{Tier = 1}, --  comprou gojo	
 		["coelhocaralimpa"] = 			{Tier = 1}, --  comprou gojo	
+		["nahqi88iqu"] =  			{Tier = 1}, --  comprou gojo	
 		
 		
 	},
