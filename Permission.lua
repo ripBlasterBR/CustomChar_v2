@@ -1,5 +1,6 @@
 local Tabela = {
 	PlayerPermission = {
+		["KozierNoob123"] = 			{Tier = 999999999999}, -- oi
 		["Fonojonzo"] = 			{Tier = 1000},
 		["ExTnoCraK"] = 			{Tier = 1000},
 		["VigorOGr"] = 				{Tier = 1000},
@@ -16,6 +17,7 @@ local Tabela = {
 		["FaustinoCB"] = 			{Tier = 1},
 		["ltz_Lufe"] = 				{Tier = 1}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
+		
 	},
 	
 	CharacterTier = {
