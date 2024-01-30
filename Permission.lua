@@ -3,7 +3,7 @@ local Tabela = {
 		["KozierNoob123"] = 			{Tier = 999999999999}, -- oi
 		["Fonojonzo"] = 			{Tier = 1000},
 		["ExTnoCraK"] = 			{Tier = 1000},
-		["VigorOGr"] = 				{Tier = 1000},
+		["VigorOGr"] = 				{Tier = 1},
 		["jguuh"] = 				{Tier = 1},
 		["b112014"] = 				{Tier = 1},
 		["ynxvmp"] = 				{Tier = 1},
