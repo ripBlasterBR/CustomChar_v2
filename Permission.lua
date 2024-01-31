@@ -37,6 +37,7 @@ local Tabela = {
 		["gyutaro"]	=				{Locked = {}},
 		["gojov2"]	=				{Locked = {36651812,3667599085}},
 		["teengojo"]	=				{Locked = {36651812}},
+		["okuyasu"]	=				{Locked = {36651812}},
 		
 	}
 
