@@ -9,7 +9,7 @@ local Tabela = {
 		["ynxvmp"] = 				{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 1},		
-		["Renan2809"] = 			{Tier = 1},
+		["Renan2809"] = 			{Tier = 1000},
 		["NuelNoCra"] = 			{Tier = 1},
 		["Biscoituuh"] = 			{Tier = 1000},
 		["GG_TIAGO100"] = 			{Tier = 1},
