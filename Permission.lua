@@ -35,6 +35,7 @@ local Tabela = {
 		["gojov2"]	=				{Locked = {36651812,3667599085},Icon = 16136393866},
 		["teengojo"]	=				{Locked = {36651812,128677359},Icon = 14023532241},
 		["okuyasu"]	=				{Tier = 1000,Locked = {36651812,834610807},Icon = 1974417519},
+		["pain"]	=				{Tier = 1,Locked = {36651812},Icon = 1974417519},
 		
 	}
 
