@@ -11,7 +11,7 @@
 		["ProzinhoBr23213"] = 			{Tier = 1},		
 		["Renan2809"] = 			{Tier = 1},
 		["NuelNoCra"] = 			{Tier = 1},
-		["Biscoituuh"] = 			{Tier = 1},
+		["Biscoituuh"] = 			{Tier = 1000},
 		["GG_TIAGO100"] = 			{Tier = 1},
 		["FerPro_13"] = 			{Tier = 1},
 		["FaustinoCB"] = 			{Tier = 1},
