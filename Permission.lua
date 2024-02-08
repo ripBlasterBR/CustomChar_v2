@@ -3,7 +3,7 @@
 		["KozierNoob123"] = 			{Tier = 1000}, -- oi
 		["Fonojonzo"] = 			{Tier = 1000},
 		["ExTnoCraK"] = 			{Tier = 1000},
-		["VigorOGr"] = 				{Tier = 1},
+		["VigorOGr"] = 				{Tier = 1000},
 		["jguuh"] = 				{Tier = 1000},
 		["b112014"] = 				{Tier = 1},
 		["ynxvmp"] = 				{Tier = 1},
