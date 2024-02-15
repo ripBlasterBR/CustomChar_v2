@@ -9,7 +9,7 @@
 		["ynxvmp"] = 				{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 1},		
-		["Renan2809"] = 			{Tier = 1},
+		["Renan2809"] = 			{Tier = 1000},
 		["NuelNoCra"] = 			{Tier = 1},
 		["Biscoituuh"] = 			{Tier = 1000},
 		["GG_TIAGO100"] = 			{Tier = 1},
@@ -34,8 +34,8 @@
 		["gyutaro"]	=				{Locked = {}},
 		["gojov2"]	=				{Locked = {36651812,3667599085},Icon = 16136393866},
 		["teengojo"]	=				{Locked = {36651812,128677359},Icon = 14023532241},
-		["okuyasu"]	=				{Tier = 1000,Locked = {36651812,834610807,75422217},Icon = 1974417519},
-		["pain"]	=				{Tier = 1,Locked = {36651812,4035850120,3337736146,1513291266},Icon = 11539866072},
+		["okuyasu"]	=				{Tier = 1000,Permission = {36651812,834610807,75422217},Icon = 1974417519},
+		["pain"]	=				{Tier = 1,Permission = {36651812,4035850120,3337736146,1513291266},Icon = 11539866072},
 		["diavolo"]	=				{Tier = 1000,Permission = {36651812,3207378051},Icon = 6861041809},
 	}
 
