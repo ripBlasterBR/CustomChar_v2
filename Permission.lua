@@ -32,7 +32,7 @@
 		["rimuru"]	=				{Tier = 5,Icon = 15124481761,Permission = {3337736146,4992950422}},			
 		["nakime"]	=				{Locked = {}},
 		["gyutaro"]	=				{Locked = {}},
-		["gojov2"]	=				{Locked = {36651812,3667599085},Icon = 16136393866},
+		["gojov2"]	=				{Locked = {36651812},Icon = 16136393866},
 		["teengojo"]	=				{Locked = {36651812,128677359},Icon = 14023532241},
 		["okuyasu"]	=				{Tier = 5,Permission = {36651812,834610807,75422217},Icon = 1974417519},
 		["pain"]	=				{Tier = 1,Permission = {36651812,4035850120,3337736146,1513291266},Icon = 11539866072},
