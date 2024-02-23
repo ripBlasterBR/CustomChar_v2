@@ -9,7 +9,7 @@
 		["ynxvmp"] = 				{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 1},		
-		["Renan2809"] = 			{Tier = 5},
+		["Renan2809"] = 			{Tier = 1000},
 		["NuelNoCra"] = 			{Tier = 2},
 		["Biscoituuh"] = 			{Tier = 5},
 		["GG_TIAGO100"] = 			{Tier = 1},
