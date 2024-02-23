@@ -38,6 +38,7 @@
 		["pain"]	=				{Tier = 1,Permission = {36651812,4035850120,3337736146,1513291266},Icon = 11539866072},
 		["diavolo"]	=				{Tier = 5,Permission = {36651812,3207378051},Icon = 6861041809},
 		["giorno"]	=				{Tier = 5,Permission = {36651812,3108673472,3667599085},Icon = 15193933291},
+		["itachi"]	=				{Tier = 5,Permission = {36651812},Icon = 25444441},
 	}
 
 }
