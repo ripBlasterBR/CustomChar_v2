@@ -7,7 +7,6 @@
 		["jguuh"] = 				{Tier = 5},
 		["b112014"] = 				{Tier = 1},
 		["ynxvmp"] = 				{Tier = 1},
-		["OpeTrafalgar"]			{Tier = 777777},
 		["zazax1120"] = 			{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 1},		
 		["Renan2809"] = 			{Tier = 777777},
