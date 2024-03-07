@@ -17,7 +17,7 @@
 		["FaustinoCB"] = 			{Tier = 1},
 		["ltz_Lufe"] = 				{Tier = 1}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
-		
+		["dizesetigueimer"] = 			{Tier = 999999}, -- nubaseo
 	},
 	
 	CharacterTier = {
