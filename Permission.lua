@@ -9,7 +9,7 @@
 		["ynxvmp"] = 				{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 1},		
-		["Renan2809"] = 			{Tier = 777777},
+		["Renan2809"] = 			{Tier = 1000},
 		["NuelNoCra"] = 			{Tier = 2},
 		["Biscoituuh"] = 			{Tier = 5},
 		["GG_TIAGO100"] = 			{Tier = 1},
@@ -17,7 +17,7 @@
 		["FaustinoCB"] = 			{Tier = 1},
 		["ltz_Lufe"] = 				{Tier = 1}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
-		["dizesetigueimer"] = 			{Tier = 999999}, -- nubaseo
+		["dizesetigueimer"] = 			{Tier = 1}, -- nubaseo
 	},
 	
 	CharacterTier = {
@@ -43,6 +43,7 @@
 		["giorno"]	=				{Tier = 5,Permission = {36651812,3108673472,3667599085},Icon = 15193933291},
 		["itachi"]	=				{Tier = 5,Permission = {36651812,3667599085,1209522522,1502674877,5551458487,128677359,3207378051,785068132},Icon = 25444441},
 		["mahoraga"]	=				{Tier = 99999,Locked = {36651812,785068132},Icon = 15759260117},
+		["toji"]	=				{Tier = 999999999,Locked = {36651812},Icon = 9552900711},
 	}
 
 }
