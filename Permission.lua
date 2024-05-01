@@ -1,4 +1,4 @@
-	local Tabela = {
+local Tabela = {
 	PlayerPermission = {
 		["KozierNoob123"] = 			{Tier = 5}, -- oi
 		["Fonojonzo"] = 			{Tier = 1000},
