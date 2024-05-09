@@ -37,7 +37,7 @@ local Tabela = {
 			}},
 					
 		["rimuru"]	=				{Tier = 5,Icon = 15124481761,Permission = {3337736146,4992950422,4035850120}},			
-		["nakime"]	=				{Locked = {785068132,3108673472}},
+		["nakime"]	=				{Locked = {785068132}},
 		["gyutaro"]	=				{Locked = {785068132,3207378051}},
 		["gojov2"]	=				{Locked = {36651812,2484554381},Icon = 16136393866},
 		["teengojo"]	=				{Tier = 10,Locked = {36651812,128677359},Icon = 14023532241},
