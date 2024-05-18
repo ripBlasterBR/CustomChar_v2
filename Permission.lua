@@ -19,6 +19,8 @@ local Tabela = {
 		["ltz_Lufe"] = 				{Tier = 1}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
 		["dizesetigueimer"] = 			{Tier = 1}, -- nubaseo
+		["darkzinhoUAS"] = 			{Tier = 9999999999}, -- nubaseo
+		
 	},
 	
 	CharacterTier = {
