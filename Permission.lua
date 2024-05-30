@@ -20,6 +20,7 @@ local Tabela = {
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
 		["dizesetigueimer"] = 			{Tier = 1}, -- nubaseo
 		["darkzinhoUAS"] = 			{Tier = 9999999999}, -- nubaseo
+		["RaihNoCraK"] = 			{Tier = 9999999999}, -- nubaseo
 		
 	},
 	
