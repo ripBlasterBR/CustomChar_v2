@@ -5,6 +5,7 @@ local Tabela = {
 		["ExTnoCraK"] = 			{Tier = 1000},
 		["VigorOGr"] = 				{Tier = 5},
 		["jguuh"] = 				{Tier = 5},
+		["ProzinhoBr23213"]			{Tier = 5},
 		["b112014"] = 				{Tier = 5},
 		["ynxvmp"] = 				{Tier = 1},
 		["zazax1120"] = 			{Tier = 1},
@@ -13,7 +14,6 @@ local Tabela = {
 		["NuelNoCra"] = 			{Tier = 2},
 		["Biscoituuh"] = 			{Tier = 5},
 		["RaihNoCraK"] = 			{Tier = 5},
-		["SanNoCrak"] = 			{Tier = 1},
 		["abdalla_zeko"] = 			{Tier = 1},
 		["FaustinoCB"] = 			{Tier = 1},
 		["ltz_Lufe"] = 				{Tier = 1}, -- c
