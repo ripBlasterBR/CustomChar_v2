@@ -53,6 +53,7 @@ local Tabela = {
 		["hakari"]	=				{Tier = 7,Permission = {4035850120,5182375266},Icon = 15863604764},
 		["baki"]	=				{Tier = 10,Permission = {6056028401,4035850120,5677915950,4587786574,1706462376},Icon = 15154734990},
 		["obito"]	=				{Tier = 10,Permission = {36651812},Icon = 11667009566},
+		["itadori"]	=				{Tier = 10,Permission = {36651812},Icon = 15502088431},
 		
 	}
 
