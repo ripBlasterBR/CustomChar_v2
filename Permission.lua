@@ -4,7 +4,7 @@ local Tabela = {
 		["Fonojonzo"] = 			{Tier = 1000},
 		["ExTnoCraK"] = 			{Tier = 1000},
 		["VigorOGr"] = 				{Tier = 5},
-		["jguuh"] = 				{Tier = 5},
+		["jguuh"] = 				{Tier = 10},
 		["b112014"] = 				{Tier = 5},
 		["ynxvmp"] = 				{Tier = 1},
 		["ProzinhoBr23213"] = 			{Tier = 5},		
