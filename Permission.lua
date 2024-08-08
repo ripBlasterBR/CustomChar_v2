@@ -13,7 +13,6 @@ local Tabela = {
 		["Biscoituuh"] = 			{Tier = 5},
 		["RaihNoCraK"] = 			{Tier = 5},
 		["abdalla_zeko"] = 			{Tier = 1},
-		["FaustinoCB"] = 			{Tier = 1},
 		["ltz_Lufe"] = 				{Tier = 1}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
 		["dizesetigueimer"] = 			{Tier = 1}, -- nubaseo
