@@ -17,6 +17,7 @@ local Tabela = {
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
 		["dizesetigueimer"] = 			{Tier = 1}, -- nubaseo
 		["darkzinhoUAS"] = 			{Tier = 5}, -- nubaseo
+		["FaustinoCB"] 				{Tier = 5}, -- 
 		["RaihNoCraK"] = 			{Tier = 5}, -- nubaseo
 		
 	},
@@ -37,7 +38,7 @@ local Tabela = {
 			}},
 					
 		["rimuru"]	=				{Tier = 5,Icon = 15124481761,Permission = {1408862826,3949335752,3337736146,4992950422,4035850120,2468759752,2987691941}},			
-		["nakime"]	=				{Locked = {785068132}},
+		["nakime"]	=				{Locked = {785068132,4633711075}},
 		["gyutaro"]	=				{Locked = {785068132,3207378051}},
 		["gojov2"]	=				{Locked = {36651812,2484554381,
 				595856574-- 10 dias
