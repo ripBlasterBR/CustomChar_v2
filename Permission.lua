@@ -16,6 +16,7 @@ local Tabela = {
 		["ltz_Lufe"] = 				{Tier = 1}, -- c
 		["srnubaso"] = 				{Tier = 1}, -- nubaseo
 		["darkzinhoUAS"] = 			{Tier = 5}, -- nubaseo
+		["KAKASHIHATAKI2x"] = 			{Tier = 5}, -- nubaseo
 
 	},
 
